@@ -1,6 +1,4 @@
->📋  A template README.md for code accompanying a Machine Learning paper
-
-# RR
+# Introduction
 
 This a fun (not really) tutorial for reproducible research (RR) in transportation.  
 
