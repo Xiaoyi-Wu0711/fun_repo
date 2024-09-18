@@ -2,6 +2,15 @@
 
 This a fun (not really) tutorial for reproducible research (RR) in transportation.  
 
+## Run
+
+To run:
+
+```
+python simulator.py --run-idm --no-render
+```
+
+
 ## Requirements
 
 To install requirements:
